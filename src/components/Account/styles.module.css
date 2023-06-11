@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+.account {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+
+input {
+  border: 1px solid #d9d9d9;
+  border-radius: 38px;
+  text-indent: 10px;
+}
+
+label {
+  color: #06163a;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.accountFooter {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 30px;
+}
+
+button {
+  border-radius: 34px;
+}
+
+.exitButton {
+  background-color: #f5f7ff;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13.418px;
+  line-height: 20px;
+}
+.saveButton {
+  background-color: #744bfc;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13.418px;
+  line-height: 20px;
+}
